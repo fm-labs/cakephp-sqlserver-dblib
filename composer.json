@@ -8,5 +8,11 @@
             "name": "fm-labs",
             "email": "flowmotionlabs@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "SqlserverDblib"
+    }
 }
