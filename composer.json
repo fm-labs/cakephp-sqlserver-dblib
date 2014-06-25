@@ -3,6 +3,7 @@
     "description": "PDO layer for MS SQL Server using DBLIB",
     "minimum-stability": "stable",
     "license": "MIT",
+    "type": "cakephp-plugin",
     "authors": [
         {
             "name": "fm-labs",
