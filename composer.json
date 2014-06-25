@@ -1,0 +1,12 @@
+{
+    "name": "fm-labs/cakephp-sqlserver-dblib",
+    "description": "PDO layer for MS SQL Server using DBLIB",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fm-labs",
+            "email": "flowmotionlabs@gmail.com"
+        }
+    ]
+}
